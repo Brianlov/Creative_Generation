@@ -1,0 +1,16 @@
+{"time":"2025-01-27T16:05:49.468714432Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/content/wandb/run-20250127_160548-ennbpbki/logs/debug-core.log"}
+{"time":"2025-01-27T16:05:49.58406032Z","level":"INFO","msg":"created new stream","id":"ennbpbki"}
+{"time":"2025-01-27T16:05:49.584113936Z","level":"INFO","msg":"stream: started","id":"ennbpbki"}
+{"time":"2025-01-27T16:05:49.584128521Z","level":"INFO","msg":"writer: Do: started","stream_id":"ennbpbki"}
+{"time":"2025-01-27T16:05:49.584292945Z","level":"INFO","msg":"handler: started","stream_id":"ennbpbki"}
+{"time":"2025-01-27T16:05:49.584456529Z","level":"INFO","msg":"sender: started","stream_id":"ennbpbki"}
+{"time":"2025-01-27T16:05:51.497987891Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T16:31:33.479594338Z","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/xxiaoming124-utem/huggingface/ennbpbki/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-01-27T16:31:36.457189056Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T16:31:54.91131744Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T16:31:55.819815397Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T16:33:54.752406744Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T16:33:55.172901011Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T16:34:33.715042612Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T16:34:33.821446283Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T16:34:45.380423382Z","level":"INFO","msg":"Resuming system monitor"}
